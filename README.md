@@ -26,6 +26,10 @@
     ```bash
     npx playwright test
     ```
+6. Generate report:
+    ```bash
+    npx playwright show-report
+    ```
 
 ## Usefulness
 
