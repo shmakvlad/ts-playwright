@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# ts-playwright
-Playwright ui framework template
-=======
 # Practice AQA
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
@@ -47,4 +43,3 @@ Playwright ui framework template
     ```bash
     npx playwright test --ui --debug
     ```
->>>>>>> e2dd48dc5fae85fc812f5898683f969b1b384f54
